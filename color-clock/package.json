@@ -1,0 +1,17 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "first time npm-init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "keywords": [
+    "clock"
+  ],
+  "author": "udd",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
